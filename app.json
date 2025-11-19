@@ -30,6 +30,10 @@
       "description": "The MCP transport type to use for the server. Must be http.",
       "required": true,
       "value": "http"
-    }
+    },
+    "ENABLE_SERVER_LOGGING": {
+      "description": "When true, the server will continue sending notifications to MCP clients",
+      "required": true,
+      "value": "true"
   }
 }

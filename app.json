@@ -34,6 +34,6 @@
     "ENABLE_SERVER_LOGGING": {
       "description": "When true, the server will continue sending notifications to MCP clients",
       "required": true,
-      "value": "true"
+      "value": true
   }
 }
